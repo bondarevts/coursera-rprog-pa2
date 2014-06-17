@@ -1,3 +1,6 @@
+[Course link](https://www.coursera.org/course/rprog)
+
+
 ### Introduction
 
 This second programming assignment will require you to write an R
